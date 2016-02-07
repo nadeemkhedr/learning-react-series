@@ -1,6 +1,6 @@
 import React from "react";
 
-export default class Footer extends React.Component {
+export default class HelloWorld extends React.Component {
   render() {
     let msg = "Extra Message from React"
     return (
