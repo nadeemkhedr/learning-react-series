@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import App from "./components/App";
+import HelloWorld from "./components/Hello-World";
 
 const app = document.getElementById('app');
-ReactDOM.render(<App/>, app);
+ReactDOM.render(<HelloWorld/>, app);
